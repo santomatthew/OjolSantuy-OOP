@@ -8,7 +8,7 @@ Ojol Santuy => OOP Implementation
 - Encapsulation
 
 
-Clean Code Oop dengan mengikuti S.O.L.I.D Principle yang dikenalkan oleh Robert j. Martin ( aka Uncle bob)
+Clean Code OOP dengan mengikuti S.O.L.I.D Principle yang dikenalkan oleh Robert j. Martin ( aka Uncle bob)
 
 - Single Responsibility Principle : 
 Hanya punya 1 tanggung jawab, tidak boleh menampung tanggung jawab yang tidak sesuai
